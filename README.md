@@ -1,6 +1,6 @@
 # Airbnb-Data-Analysis
 
-Extracted raw Airbnb customer review data on Airbnb price listing of various bedrooms across state from the Kaggle website 
+Extracted raw Airbnb  review data on Airbnb price listing of various bedrooms across state from the Kaggle website 
 
 Performed data cleaning and expelled the null values using Excel
 
